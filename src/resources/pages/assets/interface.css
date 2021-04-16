@@ -1,0 +1,73 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: #000;
+    color:#fff;
+}
+
+div.main {
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#navigation {
+    height: 100%;
+}
+
+div.main-window {
+    height: 100%;
+    overflow: auto;
+}
+
+div.status {
+    width: 100%;
+}
+
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#navigation ul li {
+    width: 100%;
+    list-style: none;
+}
+
+.hidden {
+    display: none;
+}
+
+div.details {
+    background-color: #4d504d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:100%
+}
+
+div.details h2 {
+    overflow: hidden;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+div.main-window .row article {
+    overflow: hidden;
+    min-width: 16.66667%;
+}
+
+div.task ul.taskMenu li {
+    text-align: left;
+    list-style: none;
+}

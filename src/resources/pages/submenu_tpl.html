@@ -1,0 +1,12 @@
+{% for entry in menuItems %}
+<li>
+    {% if entry.menuItems %}
+	<label>{% entry.caption %}</label>
+    <ul class="hidden">
+	{% include ":submenu_tpl.html" with entry %}
+    </ul>
+    {% else %}
+    <label><a href="exec/{% entry.uid %}" pw-action="exec">{% entry.caption %}</a></label>
+	{% endif %}
+</li>
+{% endfor %}

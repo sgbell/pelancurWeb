@@ -1,0 +1,16 @@
+<div class="row">
+{% for task in taskList %}
+    <article class="col-sm-4 col-lg-2">
+		<div class="task">
+            <div class="details">
+			    <h2>{% task.name %}</h2>
+		    </div>
+			<ul class="hidden taskMenu" data-pid="{% task.pid %}">
+				<li><a href="/activity/close/{% task.pid %}" pw-action="exec">Close</a></li>
+				<li><a href="/activity/{% task.pid %}" pw-action="exec">Switch to</a></li>
+				<li><a href="/activity/restart/{% task.pid %}" pw-action="exec">Restart</a></li>
+			</ul>
+		</div>
+    </article>
+{% endfor %}
+</div>

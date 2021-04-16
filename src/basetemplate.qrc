@@ -1,0 +1,36 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+   <file alias="main.html">resources/pages/main.html</file>
+   <file alias="submenu_tpl.html">resources/pages/submenu_tpl.html</file>
+   <file alias="taskbar.html">resources/pages/taskbar.html</file>
+   <file alias="assets/interface.css">resources/pages/assets/interface.css</file>
+   <file alias="assets/interface.js">resources/pages/assets/interface.js</file>
+   <file alias="assets/bootstrap.min.js">resources/pages/assets/bootstrap.min.js</file>
+   <file alias="assets/bootstrap.min.css">resources/pages/assets/bootstrap.min.css</file>
+   <file alias="assets/jquery-3.4.0.min.js">resources/pages/assets/jquery-3.4.0.min.js</file>
+   <file alias="assets/popper.min.js">resources/pages/assets/popper.min.js</file>
+   <file alias="assets/css/all.css">resources/pages/assets/css/all.min.css</file>
+   <file alias="assets/css/brands.min.css">resources/pages/assets/css/brands.min.css</file>
+   <file alias="assets/css/fontawesome.min.css">resources/pages/assets/css/fontawesome.min.css</file>
+   <file alias="assets/css/regular.min.css">resources/pages/assets/css/regular.min.css</file>
+   <file alias="assets/css/solid.min.css">resources/pages/assets/css/solid.min.css</file>
+   <file alias="assets/css/svg-with-js.min.css">resources/pages/assets/css/svg-with-js.min.css</file>
+   <file alias="assets/css/v4-shims.min.css">resources/pages/assets/css/v4-shims.min.css</file>
+   <file alias="assets/webfonts/fa-brands-400.eot">resources/pages/assets/webfonts/fa-brands-400.eot</file>
+   <file alias="assets/webfonts/fa-brands-400.svg">resources/pages/assets/webfonts/fa-brands-400.svg</file>
+   <file alias="assets/webfonts/fa-brands-400.ttf">resources/pages/assets/webfonts/fa-brands-400.ttf</file>
+   <file alias="assets/webfonts/fa-brands-400.woff">resources/pages/assets/webfonts/fa-brands-400.woff</file>
+   <file alias="assets/webfonts/fa-brands-400.woff2">resources/pages/assets/webfonts/fa-brands-400.woff2</file>
+   <file alias="assets/webfonts/fa-regular-400.eot">resources/pages/assets/webfonts/fa-regular-400.eot</file>
+   <file alias="assets/webfonts/fa-regular-400.svg">resources/pages/assets/webfonts/fa-regular-400.svg</file>
+   <file alias="assets/webfonts/fa-regular-400.ttf">resources/pages/assets/webfonts/fa-regular-400.ttf</file>
+   <file alias="assets/webfonts/fa-regular-400.woff">resources/pages/assets/webfonts/fa-regular-400.woff</file>
+   <file alias="assets/webfonts/fa-regular-400.woff2">resources/pages/assets/webfonts/fa-regular-400.woff2</file>
+   <file alias="assets/webfonts/fa-solid-900.eot">resources/pages/assets/webfonts/fa-solid-900.eot</file>
+   <file alias="assets/webfonts/fa-solid-900.svg">resources/pages/assets/webfonts/fa-solid-900.svg</file>
+   <file alias="assets/webfonts/fa-solid-900.ttf">resources/pages/assets/webfonts/fa-solid-900.ttf</file>
+   <file alias="assets/webfonts/fa-solid-900.woff">resources/pages/assets/webfonts/fa-solid-900.woff</file>
+   <file alias="assets/webfonts/fa-solid-900.woff2">resources/pages/assets/webfonts/fa-solid-900.woff2</file>
+</qresource>
+</RCC>
